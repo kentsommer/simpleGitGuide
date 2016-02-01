@@ -158,5 +158,4 @@ Simple Introduction to Git
     ```
     git fetch --tags
     ```
-    
-For the average Joe, this is all you will use. If anyone would like a tutorial on specific portions of git via the command line (branching, merging, modifying upstream remote tracking, commit modification, etc) just let me know!
+
